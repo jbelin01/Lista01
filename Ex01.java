@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 public class Ex01 {
-    public void ex01(){
+    public static void executar1(){
 
         Scanner leitor = new Scanner(System.in);
 
-        System.out.println("DIgite um número : ");
+        System.out.println("Digite um número : ");
 
         Double num = leitor.nextDouble();
 
