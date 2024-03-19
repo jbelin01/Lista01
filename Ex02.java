@@ -14,6 +14,9 @@ public class Ex02 {
         Double soma = num1 + num2;
 
         System.out.println("O resultado da soma é: " + soma);
+
+        leitor.close();
     }
-    
+
+
 }

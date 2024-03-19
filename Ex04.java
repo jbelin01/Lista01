@@ -27,7 +27,7 @@ public class Ex04 {
 
         System.out.println("O resultado da soma é: " + divisao);
 
-                
+        leitor.close();
     }
     
 }

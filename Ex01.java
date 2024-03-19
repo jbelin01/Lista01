@@ -18,6 +18,7 @@ public class Ex01 {
             System.out.println("Número maior do que 10!");
         }
        
+        leitor.close();
     } 
    
 }

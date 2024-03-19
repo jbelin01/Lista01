@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-public class Ex05 {
+public class Ex05{
     public static void executar5(){
 
         Scanner leitor = new Scanner(System.in);
 
-        Double aux; 
+        Double aux;
 
         System.out.println("Digite o número A: ");
         Double numA = leitor.nextDouble();
@@ -21,7 +21,7 @@ public class Ex05 {
         
             System.out.printf("Depois : Número A = %.2f e Número B = %.2f" , numA , numB);
         
-        
+            leitor.close();
     }
     
 }

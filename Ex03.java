@@ -21,5 +21,7 @@ public class Ex03 {
         else{
             System.out.println("Sequência de números  é inválida!");
         }
+
+        leitor.close();
     }
 }

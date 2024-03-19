@@ -10,9 +10,9 @@ public class Program {
 
     // Ex04.executar4();
 
-    Ex05.executar5();
+    // Ex05.executar5();
 
-    // Ex06.executar6();
+    //Ex06.executar6();
 
     // Ex07.executar7();
 
