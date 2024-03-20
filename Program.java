@@ -16,11 +16,11 @@ public class Program {
 
     // Ex07.executar7();
 
-    // Ex08.executar8();
+     // Ex08.executar8();
 
     // Ex09.executar9();
 
-    // Ex10.executar10();
+     Ex10.executar10();
 
     // Ex11.executar11();
 
