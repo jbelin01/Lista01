@@ -46,6 +46,10 @@ public class Ex12 {
             if ( mes == 12){
                 System.out.println("Dezembro");
             }
+            
         }
+
+        leitor.close();
+        
     }
 }

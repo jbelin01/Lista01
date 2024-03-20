@@ -26,5 +26,7 @@ public class Ex09 {
             
         }
 
+        leitor.close();
+
     }
 }

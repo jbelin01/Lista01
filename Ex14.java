@@ -16,7 +16,9 @@ public class Ex14 {
 
         Double an = a1 + ( n - 1) * r;
 
-        System.out.println("Resultado: an = 28");
+        System.out.println("Resultado: an = " + an);
+
+        leitor.close();
 
     }
 }

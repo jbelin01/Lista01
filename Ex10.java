@@ -29,6 +29,8 @@ public class Ex10 {
             else{
                 System.out.println("Número inválido!");
             }
+
+            leitor.close();
             
         }
     }

@@ -51,6 +51,8 @@ public class Ex13 {
         }
 
         System.out.println("Resultado é: " +  resultado);
+
+        leitor.close();
         
     }
 }

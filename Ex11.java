@@ -41,5 +41,7 @@ public class Ex11 {
 
         System.out.printf(" sequência: 1°: %d, 2°: %d, 3° %d", num1, num2, num3);
 
+        leitor.close();
+
     }
 }

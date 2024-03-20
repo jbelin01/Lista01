@@ -19,5 +19,7 @@ public class Ex08 {
 
         }
 
+        leitor.close();
+
     }
 }

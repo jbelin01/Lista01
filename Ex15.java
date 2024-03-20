@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class Ex15 {
@@ -25,6 +24,8 @@ public class Ex15 {
         Double distancia = Math.sqrt(Math.pow((numX2 - numX1), 2) + Math.pow((numY2 - numY1), 2)); 
 
         System.out.printf("Distância é igual a %.2f", distancia);
+
+        leitor.close();
         
     }
 }
