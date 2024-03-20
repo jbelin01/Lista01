@@ -2,29 +2,45 @@ public class Program {
 
    public static void main(String[] args) {
     
-    // Ex01.executar1();
+    // Ex01.executar();
 
-    // Ex02.executar2();
+    // Ex02.executar();
 
-    // Ex03.executar3();
+    // Ex03.executar();
 
-    // Ex04.executar4();
+    // Ex04.executar();
 
-    // Ex05.executar5();
+    // Ex05.executar();
 
-    //Ex06.executar6();
+    //Ex06.executar();
 
-    // Ex07.executar7();
+    // Ex07.executar();
 
-     // Ex08.executar8();
+     // Ex08.executar();
 
-    // Ex09.executar9();
+    // Ex09.executar();
 
-     Ex10.executar10();
+    // Ex10.executar();
 
-    // Ex11.executar11();
+    // Ex11.executar();
 
-    // Ex12.executar12();
+    // Ex12.executar();
+
+      Ex13.executar();
+
+     // Ex14.executar();
+
+     // Ex15.executar();
+
+     // Ex16.executar();
+
+     // Ex17.executar();
+
+     // Ex18.executar();
+
+     // Ex19.executar();
+
+     // Ex20.executar();
 
 
    }

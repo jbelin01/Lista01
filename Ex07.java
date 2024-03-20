@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ex07 {
-    public static void executar7(){
+    public static void executar(){
 
         Scanner leitor = new Scanner(System.in);
 
